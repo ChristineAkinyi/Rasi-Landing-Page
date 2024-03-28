@@ -1,0 +1,292 @@
+.offers{
+    background-color: #82BF79;
+    padding: 5px;
+}
+
+.text{
+    background-image: url(Images/pillowed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    padding: 30px 200px 30px 200px;
+    height: 400px;
+}
+
+.india{
+    margin-top: 500px;
+    
+}
+
+#number{
+    margin-left: 200px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.page2{
+    display: flex;
+    margin-top: 40px;
+    gap: 10%;
+}
+
+#comfy{
+    width: 400px;
+    height: 355px;
+}
+
+.text4{
+    white-space: nowrap;
+}
+
+.premium{
+    display: flex;
+}
+
+.page3{
+    display: flex;
+    background-color: #E6F2E4;
+    margin-top: 50px;
+    gap: 10%;
+}
+
+.textiles{
+    display: flex;
+    gap: 2%;
+}
+
+.textile{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.texle{
+    width: 340px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+#array{
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+#dive{
+    margin-left: 320px;
+}
+
+#techniques{
+    margin-left: 330px;
+}
+
+#clients{
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+#singing{
+    margin-left: 320px;
+    white-space: nowrap;
+}
+
+#praises{
+    margin-left: 330px;
+    white-space: nowrap;
+}
+
+#mills{
+    width: 100px;
+    margin-top: 30px;
+}
+
+#arvind{
+    width: 100px;
+}
+
+#birla{
+    width: 90px;
+}
+
+.logos{
+    display: flex;
+    gap: 10%;
+}
+
+.aditya{
+    display: flex;
+    gap: 9%;
+}
+
+.texts{
+    white-space: nowrap;
+}
+
+.conttwo{
+    display: flex;
+    gap: 10%;
+}
+
+.high{
+    white-space: nowrap;
+}
+
+#dreambed{
+    border-radius: 40px;
+    width: 450px;
+    height: 350px;
+}
+
+#store{
+    width: 100px;
+}
+
+.gapp{
+    width: 100px;
+    height: 70px;
+}
+
+.page7{
+    display: flex;
+    margin-top: 50px;
+}
+.footer{
+    display: flex;
+    gap: 5%;
+}
+
+.white{
+    width: 20px;
+}
+
+.foot{
+    list-style: none;
+}
+
+#sshot{
+    width: 200px;
+}
+
+#map{
+    width: 400px;
+}
+
+#floral1{
+    width: 300px;
+    height: 300px;
+}
+
+.floral2{
+    width: 300px ;
+    height: 300px;
+}
+
+.navbar{
+    list-style: none;
+    display: flex;
+    gap: 10%;
+}
+
+@media screen and (min-width:375px) and (max-width:667px){
+    .page7{
+        flex-wrap: wrap;
+        margin-top: 50px;
+    }
+
+   .text{
+    padding: 20px;
+    height: 400px;
+    background-size: 50px;
+}
+
+.navbar{
+    flex-wrap: wrap;
+}
+
+
+.pic{
+    width: 60px;
+}
+
+.footer{
+    flex-wrap: wrap;
+    gap: 5%;
+}
+
+#map{
+    width: 300px;
+}
+
+.page8{
+    flex-wrap: wrap;
+}
+
+.conttwo{
+    flex-wrap: wrap;
+}
+
+#dreambed{
+    border-radius: 40px;
+    width: 300px;
+    height: 350px;
+}
+
+.high{
+    white-space:normal;
+}
+
+.logos{
+    flex-wrap: wrap;
+}
+
+.textiles{
+    flex-wrap: wrap;
+}
+
+.array{
+    padding-right: 80px;
+}
+
+.page3{
+    flex-wrap: wrap;
+}
+
+.page2{
+    flex-wrap: wrap;
+}
+.text4{
+    white-space: normal;
+}
+
+#comfy{
+    width: 300px;
+}
+
+#clients{
+    margin-left: 30px;
+    font-size: 30px;
+}
+#singing{
+    margin-left: 30px;
+    white-space: normal;
+}
+
+#praises{
+    margin-left: 30px;
+    white-space: normal
+}
+
+#array{
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+#dive{
+    margin-left: 30px;
+}
+
+#techniques{
+    margin-left: 30px;
+}
+
+   } 
+
+
